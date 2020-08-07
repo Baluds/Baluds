@@ -27,6 +27,6 @@
   
   <p  align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=baluds&&show_icons=true&title_color=#85C1E9&icon_color=09E3FF&text_color=AED6F1&bg_color=ffffff">
+<img src="https://github-readme-stats.vercel.app/api?username=Baluds&include_all_commits=true&count_private=true&title_color=#85C1E9&icon_color=09E3FF&text_color=AED6F1&bg_color=ffffff">
 
 </p>
