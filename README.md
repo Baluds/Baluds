@@ -11,8 +11,8 @@
 </p>
 
 ### Welcome to my Github
-- I'm a Software Engineer to be ,passionate about new technologies and looking to solve real world problems
-- Curently working on Flutter web and a flutter app - https://github.com/Argia-Org/incodnito
+- I'm a Software Engineer to be , passionate about new technologies and looking to solve real world problems
+- Curently working on Flutter web and on a flutter app - https://github.com/Argia-Org/incodnito
 - To contact me - 
 <p align='center'>
  <a href="https://www.linkedin.com/in/balachandra-ds-9554391a0/"><img height="30" src="https://github.com/Baluds/Baluds/blob/master/Resources/linkedin.png?raw=true"></a>&nbsp;&nbsp;
