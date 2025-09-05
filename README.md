@@ -24,8 +24,3 @@
  <img src="https://github.com/Baluds/Baluds/blob/master/Resources/final.png" width="400" height="400">
 </p> -->
   
-  <p  align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Baluds&include_all_commits=true&count_private=true&title_color=#85C1E9&icon_color=09E3FF&text_color=AED6F1&bg_color=ffffff">
-
-</p>
